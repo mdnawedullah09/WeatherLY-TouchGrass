@@ -1,0 +1,23 @@
+# Dependencies
+SIH/node_modules/
+backend/venv/
+
+# Build output
+SIH/dist/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+backend/.env
+SIH/.env
+SIH/.env.local
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
