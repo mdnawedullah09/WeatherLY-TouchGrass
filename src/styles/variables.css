@@ -1,0 +1,27 @@
+:root {
+	--primary: #2563eb;
+	--secondary: #0ea5e9;
+	--accent: #16a34a;
+	--danger: #ef4444;
+	--warning: #f59e0b;
+	--background: #f8fafc;
+	--card: #ffffff;
+	--surface: rgba(0, 0, 0, .05);
+	--border: rgba(0, 0, 0, .12);
+	--text: #0f172a;
+	--muted: #64748b;
+	--radius: 24px;
+	--radius-button: 18px;
+	--radius-input: 16px;
+	--shadow: 0 10px 40px rgba(0, 0, 0, .1);
+
+	/* Legacy aliases keep existing feature sections on the same system. */
+	--color-primary: var(--primary);
+	--color-secondary: var(--secondary);
+	--color-green: var(--accent);
+	--color-background: var(--background);
+	--color-glass: var(--surface);
+	--color-border: var(--border);
+	--color-text: var(--text);
+	--color-muted: var(--muted);
+}

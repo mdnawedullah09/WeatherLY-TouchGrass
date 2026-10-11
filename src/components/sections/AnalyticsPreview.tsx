@@ -1,0 +1,1 @@
+export function AnalyticsPreview() { return <div className="analytics-preview"><span>Atmospheric trend</span><strong>+12.4%</strong><div className="bars"><i /><i /><i /><i /><i /><i /><i /><i /></div></div> }
