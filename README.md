@@ -1,25 +1,13 @@
 # 🌦️ WeatherLY
 
-## Smart India Hackathon (SIH) Project
 
-**Team Name:** Green Innovators  
 **Project:** WeatherLY – AI-Powered Weather Assistant
 
 WeatherLY is an AI-powered weather platform designed to make weather information easier to understand, access, and use. It combines real-time weather data with conversational AI so users can ask weather-related questions naturally and receive useful, location-based information.
 
-The project is developed as a prototype for the **Smart India Hackathon (SIH)**, focusing on accessible, intelligent, and user-friendly weather information.
 
 ---
 
-## 👥 Team Green Innovators
-
-| Team Member | Role |
-|---|---|
-| **Nawedullah Saif** | Team Leader & Presenter |
-| **Ratan Raj Prince** | Programmer |
-| **Deep Bhattachrya** | PPT Maker |
-| **Rohit Raj** | Researcher |
-| **Chandani Kumari** | Presenter |
 
 ---
 
@@ -211,28 +199,13 @@ For production deployment:
 - 🧠 Advanced AI-based weather reasoning
 - 📱 Mobile/PWA version
 
----
 
-## 🏆 Smart India Hackathon
-
-**WeatherLY** is an SIH-oriented prototype developed by **Team Green Innovators**.
-
-The project combines **Artificial Intelligence, real-time weather data, conversational interaction, and an accessible user interface** to create a smarter weather-information platform.
-
-### Team Green Innovators
-
-- **Nawedullah Saif** — Team Leader & Presenter
-- **Ratan Raj Prince** — Programmer
-- **Deep Bhattachrya** — PPT Maker
-- **Rohit Raj** — Researcher
-- **Chandani Kumari** — Presenter
 
 ---
 
 ## 📄 License
 
-This project is developed as an educational and hackathon prototype for Smart India Hackathon.
+This project is developed as an educational and hackathon prototype 
 
 ---
 
-**Made with ❤️ by Team Green Innovators**
